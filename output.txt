@@ -1,0 +1,27 @@
+Python 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/HP/Downloads/guessnumber/4661499-558907f08b76453b78a9d4f90e852e3f46fbbcd9/guessnumber.py
+May I ask you for your name?
+Sheshan
+Sheshan, we are going to play a game. I am thinking of a number between 1 and 200
+Go ahead. Guess!
+Guess: 180
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 150
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 110
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 80
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 50
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 20
+Nope. The number I was thinking of was 25
+Do you want to play again?
+no
